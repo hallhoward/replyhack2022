@@ -1,0 +1,14 @@
+{
+    "<item_id>":{
+        "item_name": "Wooden Sword",
+        "icon_url": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d5/Wooden_Sword_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217235747",
+        "origin_game": "minecraft",
+        "game_data":{
+            "minecraft":{
+                "min_version": "1.0.0",
+                "server": "*"
+            }
+        },
+        "owner":100
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "<username>":{
+        "password": "<password>",
+        "items": [
+            "<item hash 1>",
+            "<item hash 2>"
+        ]
+    }
+}
