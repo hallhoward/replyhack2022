@@ -17,6 +17,11 @@ def request(table):
     response = requests.get(f"{prefix}/{table}.json")
     return response.json()
 
+@app.route("/describe/<item_id>")
+def describe_item():
+    response = requests.get(f"{prefix}/items/{item_id}.json")
+    return response.json()
+
 
 @app.route("/list")
 def list_items():
